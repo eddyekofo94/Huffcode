@@ -12,7 +12,7 @@
 
 class Huff_Leaf : Node {
 public:
-    static char letter;
+     char letter;
 
     Huff_Leaf(char c, float w);
 

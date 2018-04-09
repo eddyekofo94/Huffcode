@@ -9,7 +9,7 @@
 class Node {
 public:
     Node *left, *right;
-    static float weight;
+     float weight;
 
     Node();
     explicit Node(float weight, Node *left, Node *right);

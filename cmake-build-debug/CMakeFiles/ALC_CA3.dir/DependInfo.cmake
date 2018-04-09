@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/Huff_Leaf.cpp" "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/cmake-build-debug/CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o"
+  "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/HuffLeaf.cpp" "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/cmake-build-debug/CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o"
+  "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/HuffTree.cpp" "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/cmake-build-debug/CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o"
   "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/Node.cpp" "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/cmake-build-debug/CMakeFiles/ALC_CA3.dir/Node.cpp.o"
   "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/main.cpp" "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/cmake-build-debug/CMakeFiles/ALC_CA3.dir/main.cpp.o"
   )

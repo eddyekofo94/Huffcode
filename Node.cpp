@@ -11,4 +11,4 @@ Node::~Node() = default;
 
 Node::Node() = default;
 
-Node::Node(float weight, Node *left, Node *right): left(nullptr), right(nullptr), weight(nullptr)  {}
+Node::Node(float weight, Node *left, Node *right): left(nullptr), right(nullptr), weight(0)  {}

@@ -2,7 +2,7 @@
 // Created by Eddy Ekofo on 09/04/2018.
 //
 
-#include "Huff_Leaf.h"
+#include "HuffLeaf.h"
 
 
 Huff_Leaf::Huff_Leaf(char c, float w) : Node(weight, nullptr, nullptr), letter(c) {}

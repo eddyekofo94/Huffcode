@@ -123,32 +123,59 @@ ALC_CA3/fast:
 	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/build
 .PHONY : ALC_CA3/fast
 
-Huff_Leaf.o: Huff_Leaf.cpp.o
+HuffLeaf.o: HuffLeaf.cpp.o
 
-.PHONY : Huff_Leaf.o
+.PHONY : HuffLeaf.o
 
 # target to build an object file
-Huff_Leaf.cpp.o:
-	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o
-.PHONY : Huff_Leaf.cpp.o
+HuffLeaf.cpp.o:
+	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o
+.PHONY : HuffLeaf.cpp.o
 
-Huff_Leaf.i: Huff_Leaf.cpp.i
+HuffLeaf.i: HuffLeaf.cpp.i
 
-.PHONY : Huff_Leaf.i
+.PHONY : HuffLeaf.i
 
 # target to preprocess a source file
-Huff_Leaf.cpp.i:
-	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.i
-.PHONY : Huff_Leaf.cpp.i
+HuffLeaf.cpp.i:
+	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.i
+.PHONY : HuffLeaf.cpp.i
 
-Huff_Leaf.s: Huff_Leaf.cpp.s
+HuffLeaf.s: HuffLeaf.cpp.s
 
-.PHONY : Huff_Leaf.s
+.PHONY : HuffLeaf.s
 
 # target to generate assembly for a file
-Huff_Leaf.cpp.s:
-	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.s
-.PHONY : Huff_Leaf.cpp.s
+HuffLeaf.cpp.s:
+	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.s
+.PHONY : HuffLeaf.cpp.s
+
+HuffTree.o: HuffTree.cpp.o
+
+.PHONY : HuffTree.o
+
+# target to build an object file
+HuffTree.cpp.o:
+	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o
+.PHONY : HuffTree.cpp.o
+
+HuffTree.i: HuffTree.cpp.i
+
+.PHONY : HuffTree.i
+
+# target to preprocess a source file
+HuffTree.cpp.i:
+	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/HuffTree.cpp.i
+.PHONY : HuffTree.cpp.i
+
+HuffTree.s: HuffTree.cpp.s
+
+.PHONY : HuffTree.s
+
+# target to generate assembly for a file
+HuffTree.cpp.s:
+	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/HuffTree.cpp.s
+.PHONY : HuffTree.cpp.s
 
 Node.o: Node.cpp.o
 
@@ -213,9 +240,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ALC_CA3"
-	@echo "... Huff_Leaf.o"
-	@echo "... Huff_Leaf.i"
-	@echo "... Huff_Leaf.s"
+	@echo "... HuffLeaf.o"
+	@echo "... HuffLeaf.i"
+	@echo "... HuffLeaf.s"
+	@echo "... HuffTree.o"
+	@echo "... HuffTree.i"
+	@echo "... HuffTree.s"
 	@echo "... Node.o"
 	@echo "... Node.i"
 	@echo "... Node.s"

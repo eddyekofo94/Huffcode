@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ALC_CA3.dir/main.cpp.o"
   "CMakeFiles/ALC_CA3.dir/Node.cpp.o"
-  "CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o"
+  "CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o"
+  "CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o"
   "ALC_CA3.pdb"
   "ALC_CA3"
 )

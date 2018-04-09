@@ -105,45 +105,71 @@ CMakeFiles/ALC_CA3.dir/Node.cpp.o.provides: CMakeFiles/ALC_CA3.dir/Node.cpp.o.re
 CMakeFiles/ALC_CA3.dir/Node.cpp.o.provides.build: CMakeFiles/ALC_CA3.dir/Node.cpp.o
 
 
-CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o: CMakeFiles/ALC_CA3.dir/flags.make
-CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o: ../Huff_Leaf.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o -c "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/Huff_Leaf.cpp"
+CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o: CMakeFiles/ALC_CA3.dir/flags.make
+CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o: ../HuffLeaf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o -c "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/HuffLeaf.cpp"
 
-CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/Huff_Leaf.cpp" > CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.i
+CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/HuffLeaf.cpp" > CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.i
 
-CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/Huff_Leaf.cpp" -o CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.s
+CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/HuffLeaf.cpp" -o CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.s
 
-CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o.requires:
+CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o.requires:
 
-.PHONY : CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o.requires
+.PHONY : CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o.requires
 
-CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o.provides: CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o.requires
-	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o.provides.build
-.PHONY : CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o.provides
+CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o.provides: CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o.provides.build
+.PHONY : CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o.provides
 
-CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o.provides.build: CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o
+CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o.provides.build: CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o
+
+
+CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o: CMakeFiles/ALC_CA3.dir/flags.make
+CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o: ../HuffTree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o -c "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/HuffTree.cpp"
+
+CMakeFiles/ALC_CA3.dir/HuffTree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ALC_CA3.dir/HuffTree.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/HuffTree.cpp" > CMakeFiles/ALC_CA3.dir/HuffTree.cpp.i
+
+CMakeFiles/ALC_CA3.dir/HuffTree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ALC_CA3.dir/HuffTree.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/HuffTree.cpp" -o CMakeFiles/ALC_CA3.dir/HuffTree.cpp.s
+
+CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o.requires:
+
+.PHONY : CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o.requires
+
+CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o.provides: CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/ALC_CA3.dir/build.make CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o.provides.build
+.PHONY : CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o.provides
+
+CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o.provides.build: CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o
 
 
 # Object files for target ALC_CA3
 ALC_CA3_OBJECTS = \
 "CMakeFiles/ALC_CA3.dir/main.cpp.o" \
 "CMakeFiles/ALC_CA3.dir/Node.cpp.o" \
-"CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o"
+"CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o" \
+"CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o"
 
 # External object files for target ALC_CA3
 ALC_CA3_EXTERNAL_OBJECTS =
 
 ALC_CA3: CMakeFiles/ALC_CA3.dir/main.cpp.o
 ALC_CA3: CMakeFiles/ALC_CA3.dir/Node.cpp.o
-ALC_CA3: CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o
+ALC_CA3: CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o
+ALC_CA3: CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o
 ALC_CA3: CMakeFiles/ALC_CA3.dir/build.make
 ALC_CA3: CMakeFiles/ALC_CA3.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable ALC_CA3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ALC_CA3"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ALC_CA3.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -153,7 +179,8 @@ CMakeFiles/ALC_CA3.dir/build: ALC_CA3
 
 CMakeFiles/ALC_CA3.dir/requires: CMakeFiles/ALC_CA3.dir/main.cpp.o.requires
 CMakeFiles/ALC_CA3.dir/requires: CMakeFiles/ALC_CA3.dir/Node.cpp.o.requires
-CMakeFiles/ALC_CA3.dir/requires: CMakeFiles/ALC_CA3.dir/Huff_Leaf.cpp.o.requires
+CMakeFiles/ALC_CA3.dir/requires: CMakeFiles/ALC_CA3.dir/HuffLeaf.cpp.o.requires
+CMakeFiles/ALC_CA3.dir/requires: CMakeFiles/ALC_CA3.dir/HuffTree.cpp.o.requires
 
 .PHONY : CMakeFiles/ALC_CA3.dir/requires
 

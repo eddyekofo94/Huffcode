@@ -82,10 +82,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/Huff_Leaf.cpp">
+		<Unit filename="/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/HuffLeaf.cpp">
 			<Option target="ALC_CA3"/>
 		</Unit>
-		<Unit filename="/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/Huff_Leaf.h">
+		<Unit filename="/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/HuffLeaf.h">
+			<Option target="ALC_CA3"/>
+		</Unit>
+		<Unit filename="/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/HuffTree.cpp">
+			<Option target="ALC_CA3"/>
+		</Unit>
+		<Unit filename="/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/HuffTree.h">
 			<Option target="ALC_CA3"/>
 		</Unit>
 		<Unit filename="/Users/eddyekofo/Google Drive/College/4th Year/Semester_8/ALC/ALC_CA3/Node.cpp">
